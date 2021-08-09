@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(146, 165, 165);
+}
+
+input{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(162, 221, 221);
+    border-radius: 5px;
+    border-color: cadetblue;
+}
+
+.col-md-6{
+    margin-top: 130px;
+    background-color: rgb(54, 120, 138);
+}
+
+
+
